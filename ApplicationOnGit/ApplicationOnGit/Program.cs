@@ -11,7 +11,7 @@ namespace ApplicationOnGit
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello - World Ramesha");
+            Console.WriteLine("Hello - World Ramesha Set SCM");
             Console.ReadLine();
         }
     }
